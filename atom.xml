@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Denizli Korsan Taksi | Çardak Havalimanı ve Pamukkale Yolu</title>
+  <link href="https://korsantaksidenizli.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://korsantaksidenizli.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://korsantaksidenizli.github.io/</id>
+  <updated>2026-11-19T00:34:01.994Z</updated>
+  <author><name>Denizli Korsan Taksi</name></author>
+  <entry>
+    <title>Denizli Korsan Taksi | Çardak Havalimanı ve Pamukkale Yolu</title>
+    <link href="https://korsantaksidenizli.github.io/" rel="alternate" type="text/html"/>
+    <id>https://korsantaksidenizli.github.io/</id>
+    <updated>2026-11-19T00:34:01.994Z</updated>
+    <summary>Denizli korsan taksi hattı: Çardak Havalimanı karşılaması, Pamukkale ve Laodikya gezisi, Tavas, Çivril ve Acıpayam yolu. Fiyat baştan, 7/24.</summary>
+  </entry>
+</feed>
